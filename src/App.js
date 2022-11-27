@@ -11,6 +11,7 @@ import ButtonGroup from 'react-bootstrap/ButtonGroup';
 import Dropdown from 'react-bootstrap/Dropdown';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Navbar from 'react-bootstrap/Navbar';
+import Overlay from './hoverbutton.js';
 
 
 
@@ -38,14 +39,22 @@ function App() {
   */
   function determineEra(num) {
     if (num >= 272) {
-      return "Baroque Era";
+      return "Your favorite age seems to be the Baroque Era";
     } else if (num < 272 && num >= 202) {
-      return "Classical Era";
+      return "Your favorite age seems to be the Classical Era";
     } else if (num < 202 && num >= 122) {
-      return "Romantic Era";
-    } else {
-      return "Modern Era";
+      return "Your favorite age seems to be the Romantic Era";
+    } else if (num <122 && num >=0 ) {
+      return "Your favorite age seems to be the Modern Era";
+    }  else {
+      return ""
     }
+  }
+  function averageYear() {
+    if (totalno != 0) {
+      return "Average Composer Age is: " + Math.round(total/totalno);
+    }
+    return "";
   }
   // ===========================================================================
   // --------------------------- Sorting functions -----------------------------
@@ -105,7 +114,10 @@ function App() {
   // --------------------------- aggregator displa -----------------------------
   /* on click, adds the favorited composer to the list of composers. */
   function appendComposer(prop) {
-    favoriteComposers(favorites => [prop.name, " ", ...favorites]);
+    favoriteComposers(favorites => [prop.name, ...favorites]);
+  }
+  function renderFav() {
+    return favorites.map((item) => <li>{item}</li>)
   }
   // ===========================================================================
   return (
@@ -124,29 +136,31 @@ function App() {
       <Container>
 
         <Row >
-          <Col md="12" lg="4">
+          <Col md="12" lg="3" style = {{paddingBottom: "1rem"}}>
             <div className="left">
-              <h2>Which age of Classical music do you like best?</h2>
-              <h2> Average Composer Age:  {total / totalno}</h2>
-              <li>Baroque Era: 422 - 272 years ago</li>
-              <li>Classical Era: 272 - 202 years ago</li>
-              <li>Romantic Era: 202 - 122 years ago</li>
-              <li>Modern Era: 122 - 0 years ago</li>
-              <h2>Your favorite age seems to be the {determineEra(total / totalno)}</h2>
-              <h2>Favorite composers: {favorites}</h2>
+              <div style = {{display: "flex", alignItems:"center"}}>
+                <h5>Which age of Classical music do you like best?</h5>
+                <Overlay/>
+              </div>
+              
+              <p className = "mainpage"> {averageYear()}</p>
+
+              <h5>{determineEra(total / totalno)}</h5>
+              <h5>Favorite composers:</h5> 
+              <p className = "mainpage">{renderFav()} </p>
             </div>
 
           </Col>
 
 
-          <Col md="12" lg="8">
+          <Col md="12" lg="9">
             <div className="col2Head">
               <h2 style = {{marginBottom: "0px"}}> All of the composers listed: </h2>
               <div className="buttons">
-                <Button className="button1" onClick={() => sortAlpha()}>Sort Alphabetically</Button>
+                <Button className="button1" variant = "outline-primary" onClick={() => sortAlpha()}>Sort A-Z</Button>
                 <Dropdown className = "button2" as={ButtonGroup}>
-                  <Button variant="success">Epoch Filter</Button>
-                  <Dropdown.Toggle split variant="success" id="dropdown-split-basic" />
+                  <Button variant="outline-success">Epoch Filter</Button>
+                  <Dropdown.Toggle split variant="outline-success" id="dropdown-split-basic" />
                   <Dropdown.Menu>
                     <Dropdown.Item onClick={() => filterBaroque()} >Baroque</Dropdown.Item>
                     <Dropdown.Item onClick={() => filterClassical()}>Classical</Dropdown.Item>
@@ -158,16 +172,16 @@ function App() {
                 </Dropdown>
               </div>
             </div>
-
-
-
-
+            <br></br>
             <div className="gallery">
               {gallery.map((item) => (composerComp(item, addYear, addFav, appendComposer)))}
             </div>
           </Col>
         </Row>
       </Container>
+      <footer style = {{borderTop: "1px solid rgb(0 0 0 / 18%)"}}>
+        <i>All composers and their works can be found at https://openopus.org/.</i>
+      </footer>
     </div>
   );
 }

@@ -35,7 +35,7 @@ export default function BiographyMake(wrapped) {
       <Offcanvas className="Canvas" show={show} onHide={handleClose} placement="bottom" style={{ height: "75vh" }}>
         <Offcanvas.Header closeButton>
           <Offcanvas.Title >
-            <h1 style={{ textAlign: "center" }}>{prop.complete_name}</h1>
+            <h1 style={{ textJustify: "center" }}>{prop.complete_name}</h1>
           </Offcanvas.Title>
         </Offcanvas.Header>
         <Offcanvas.Body style={{ display: "flex", justifyContent: "center", alignContent: "center" }}>
@@ -48,7 +48,7 @@ export default function BiographyMake(wrapped) {
               <br></br>
               <h2>Sample Works: </h2>
               {extract5(prop.works)}
-
+              <br></br>
               <p><i>information taken from <br></br>{prop.cite}</i></p>
             </div>
           </div>
