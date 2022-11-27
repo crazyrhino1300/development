@@ -13,6 +13,9 @@ function TriggerExample() {
         <div> </div>
         <br></br>
         Select the heart buttons to see which era you align with!
+        <div> </div>
+        <br></br>
+        Click the composers to learn more!
         </div>
         
     </Tooltip>
