@@ -181,6 +181,7 @@ function App() {
       </Container>
       <footer style = {{borderTop: "1px solid rgb(0 0 0 / 18%)"}}>
         <i>All composers and their works can be found at https://openopus.org/.</i>
+        <i>All components were built and modified based on documentation from react-bootstrap.</i>
       </footer>
     </div>
   );
