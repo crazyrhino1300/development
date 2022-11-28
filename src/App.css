@@ -10,9 +10,23 @@
 h1 {
   font-family: 'Montserrat Alternates', sans-serif;
 }
+h2 {
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+h3{
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+h5 {
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-weight:600px;
+} 
+.mainpage {
+  font-family: 'Montserrat Alternates', sans-serif;
+
+}
 
 header {
-  padding-top: 2rem;
+  padding-top: 1rem;
   padding-left: 2rem;
   padding-right: 2rem;
 
@@ -20,6 +34,9 @@ header {
 }
 .row {
   padding-top: 1rem;
+}
+.Col {
+  padding-bottom: 1rem;
 }
 .offcanvas {
   height: 75vh
@@ -38,7 +55,7 @@ header {
 
 .profile-pic {
   width: 13rem;
-  height: 12rem;
+  height: 15rem;
   object-fit: cover;
 } 
 .cardholder {
@@ -59,6 +76,8 @@ header {
 .cardbod {
   display: flex;
   flex-flow: column;
+  align-content: center;
+  align-items: center;
 }
 
 
@@ -67,7 +86,7 @@ header {
     border: black solid 1px;
     padding: 10px 10px 10px 10px;
     position: sticky;
-    top: 10px;
+    top: 20px;
 }
 
 .Container {

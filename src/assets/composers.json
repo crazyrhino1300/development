@@ -231,9 +231,9 @@
         "popular": "0",
         "recommended": null,
         "photo": "https://works-files.s3.amazonaws.com/17a5dcd9-6e9b-49d2-ae47-4d20b9cd892e",
-        "photo_canvas": "",
-        "wiki_page": "",
-        "cite": "",
+        "photo_canvas": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Thomas_Ad%C3%A8s_conducts_the_National_Youth_Orchestra_of_Great_Britain_at_Snape_Maltings_Concert_Hall.jpg/1920px-Thomas_Ad%C3%A8s_conducts_the_National_Youth_Orchestra_of_Great_Britain_at_Snape_Maltings_Concert_Hall.jpg",
+        "wiki_page": "Thomas Joseph Edmund Adès CBE (born 1 March 1971) is a British composer, pianist and conductor. Five compositions by Adès received votes in the 2017 Classic Voice poll of the greatest works of art music since 2000: The Tempest (2004), Violin Concerto (2005), Tevot (2007), In Seven Days (2008), and Polaris (2010).",
+        "cite": "https://en.wikipedia.org/wiki/Thomas_Ad%C3%A8s",
         "works": [
             {
                 "title": "Catch, op. 4",
@@ -342,9 +342,9 @@
         "popular": "0",
         "recommended": null,
         "photo" : "https://festivalnapavalley.org/sites/default/cache/file/2D6C4A07-C753-F84D-F542E4A2586368F0.jpg",
-        "photo_canvas": "",
-        "wiki_page": "",
-        "cite": "",
+        "photo_canvas": "https://i0.wp.com/stringsmagazine.com/wp-content/uploads/2017/12/large_5.jpg?resize=759%2C428&ssl=1",
+        "wiki_page": "John Paul Corigliano Jr. (born February 16, 1938) is an American composer of contemporary classical music. His scores, now numbering over one hundred, have won him the Pulitzer Prize, five Grammy Awards, Grawemeyer Award for Music Composition, and an Oscar. He is a distinguished professor of music at Lehman College and the Graduate Center of the City University of New York and on the composition faculty at the Juilliard School. Corigliano is best known for his Symphony No. 1, a response to the AIDS epidemic, and his film score for François Girard's The Red Violin (1997), which he subsequently adapted as the 2003 Concerto for Violin and Orchestra ('The Red Violin') for Joshua Bell.",
+        "cite": "https://en.wikipedia.org/wiki/John_Corigliano",
         "works": [
             {
                 "title": "A Dylan Thomas Trilogy, for vocal soloist, chorus, and orchestra",
@@ -685,9 +685,9 @@
         "popular": "0",
         "recommended": null,
         "photo" : "https://cso.org/media/tngnbger/michael-daugherty-2.jpg?mode=max&quality=80&width=1024&upscale=false",
-        "photo_canvas": "",
-        "wiki_page": "",
-        "cite": "",
+        "wiki_page": "Michael Kevin Daugherty (born April 28, 1954) is an American composer, pianist, and teacher. He is influenced by popular culture, Romanticism, and Postmodernism. Daugherty's notable works include his Superman comic book-inspired Metropolis Symphony for Orchestra (1988–93), Dead Elvis for Solo Bassoon and Chamber Ensemble (1993), Jackie O (1997), Niagara Falls for Symphonic Band (1997), UFO for Solo Percussion and Orchestra (1999) and for Symphonic Band (2000), Bells for Stokowski from Philadelphia Stories for Orchestra (2001) and for Symphonic Band (2002), Fire and Blood for Solo Violin and Orchestra (2003) inspired by Diego Rivera and Frida Kahlo, Time Machine for Three Conductors and Orchestra (2003), Ghost Ranch for Orchestra (2005), Deus ex Machina for Piano and Orchestra (2007),[1] Labyrinth of Love for Soprano and Chamber Winds (2012), American Gothic for Orchestra (2013), and Tales of Hemingway for Cello and Orchestra (2015). Daugherty has been described by The Times (London) as 'a master icon maker' with a 'maverick imagination, fearless structural sense and meticulous ear.'",
+        "cite": "https://en.wikipedia.org/wiki/Michael_Daugherty",
+        "photo_canvas": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Michael_Daugherty.jpg/440px-Michael_Daugherty.jpg",
         "works": [
             {
                 "title": "Bizarro for symphonic winds and percussion",
@@ -972,9 +972,9 @@
         "popular": "1",
         "recommended": "1",
         "photo": "https://interlude-cdn-blob-prod.azureedge.net/interlude-blob-storage-prod/2021/08/bach-in-sunglasses.jpg",
-        "photo_canvas": "",
-        "wiki_page": "",
-        "cite": "",
+        "photo_canvas": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Johann_Sebastian_Bach.jpg/440px-Johann_Sebastian_Bach.jpg",
+        "wiki_page": "Johann Sebastian Bach (31 March [O.S. 21 March] 1685 – 28 July 1750) was a German composer and musician of the late Baroque period. He is known for his orchestral music such as the Brandenburg Concertos; instrumental compositions such as the Cello Suites; keyboard works such as the Goldberg Variations and The Well-Tempered Clavier; organ works such as the Schubler Chorales and the Toccata and Fugue in D minor; and vocal music such as the St Matthew Passion and the Mass in B minor. Since the 19th-century Bach revival he has been generally regarded as one of the greatest composers in the history of Western music.",
+        "cite": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
         "works": [
             {
                 "title": "3 Minuets, BWV.841-843",
@@ -8827,9 +8827,9 @@
         "popular": "0",
         "recommended": null,
         "photo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Arcangelo_Corelli%2C_portrait_by_Hugh_Howard_%281697%29.jpg/800px-Arcangelo_Corelli%2C_portrait_by_Hugh_Howard_%281697%29.jpg",
-        "photo_canvas": "",
-        "wiki_page": "",
-        "cite": "",
+        "photo_canvas": "https://i.discogs.com/se9TqqY1vuMpevk5XX4LU6335_-wD3lNs7Axd1e5mtA/rs:fit/g:sm/q:90/h:324/w:230/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTcwMzUz/OS0xMjE4MjAyMDg1/LmpwZWc.jpeg",
+        "wiki_page": "Arcangelo Corelli (/kəˈrɛli/, also UK: /kɒˈ-/, US: /kɔːˈ-, koʊˈ-/, Italian: [arˈkandʒelo koˈrɛlli]; 17 February 1653 – 8 January 1713) was an Italian composer and violinist of the Baroque era. His music was key in the development of the modern genres of sonata and concerto, in establishing the preeminence of the violin, and as the first coalescing of modern tonality and functional harmony.",
+        "cite": "https://en.wikipedia.org/wiki/Arcangelo_Corelli",
         "works": [
             {
                 "title": "Concerto for Oboe and Strings",
@@ -9546,9 +9546,9 @@
         "popular": "0",
         "recommended": null,
         "photo" : "https://prabook.com/web/show-photo-icon.jpg?id=26686&width=220&cache=false",
-        "photo_canvas": "",
-        "wiki_page": "",
-        "cite": "",
+        "photo_canvas": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Girolamo_Frescobaldi_%281583-1643%29%2C_engraving_by_Claude_Mellan_%281619%29.jpg/440px-Girolamo_Frescobaldi_%281583-1643%29%2C_engraving_by_Claude_Mellan_%281619%29.jpg",
+        "wiki_page": "Girolamo Alessandro Frescobaldi (Italian: [dʒiˈrɔːlamo freskoˈbaldi]; also Gerolamo, Girolimo, and Geronimo Alissandro; September 1583[n 1] – 1 March 1643) was an Italian composer and virtuoso keyboard player. Born in the Duchy of Ferrara, he was one of the most important composers of keyboard music in the late Renaissance and early Baroque periods. A child prodigy, Frescobaldi studied under Luzzasco Luzzaschi in Ferrara, but was influenced by many composers, including Ascanio Mayone, Giovanni Maria Trabaci, and Claudio Merulo. Girolamo Frescobaldi was appointed organist of St. Peter's Basilica, a focal point of power for the Cappella Giulia (a musical organisation), from 21 July 1608 until 1628 and again from 1634 until his death.",
+        "cite": "https://en.wikipedia.org/wiki/Girolamo_Frescobaldi",
         "works": [
             {
                 "title": "12 Fantasie a quattro, for instruments",
@@ -10529,9 +10529,9 @@
         "popular": "1",
         "recommended": "1",
         "photo" : "https://cdn.britannica.com/06/167806-050-C6A92A03/George-Frideric-Handel-oil-canvas-Thomas-Hudson-1736.jpg",
-        "photo_canvas": "",
-        "wiki_page": "",
-        "cite": "",
+        "photo_canvas": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/George_Frideric_Handel_by_Balthasar_Denner.jpg/440px-George_Frideric_Handel_by_Balthasar_Denner.jpg",
+        "wiki_page": "George Frideric (or Frederick) Handel (/ˈhændəl/; baptised Georg Friedrich Händel, German: [ˈɡeːɔʁk ˈfʁiːdʁɪç ˈhɛndl̩] (listen); 23 February 1685 – 14 April 1759) was a German-British Baroque composer well known for his operas, oratorios, anthems, concerti grossi, and organ concertos. Handel received his training in Halle and worked as a composer in Hamburg and Italy before settling in London in 1712, where he spent the bulk of his career and became a naturalised British subject in 1727. He was strongly influenced both by the middle-German polyphonic choral tradition and by composers of the Italian Baroque. In turn, Handel's music forms one of the peaks of the 'high baroque' style, bringing Italian opera to its highest development, creating the genres of English oratorio and organ concerto, and introducing a new style into English church music. He is consistently recognized as one of the greatest composers of his age.",
+        "cite": "https://en.wikipedia.org/wiki/George_Frideric_Handel",
         "works": [
             {
                 "title": "2 Arias in F major, for wind ensemble, HWV.410-411",
@@ -13416,9 +13416,9 @@
         "popular": "0",
         "recommended": null,
         "photo" : "https://upload.wikimedia.org/wikipedia/commons/0/08/Luigi_Boccherini.jpg",
-        "photo_canvas": "",
-        "wiki_page": "",
-        "cite": "",
+        "photo_canvas": "https://i.discogs.com/GZGKql66cgwDmY_1RavPEYgw7_MqdCFmP-d5mGMa7hI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMzA5/Ny0xNjIwODQwMjE3/LTQxMzEuanBlZw.jpeg",
+        "wiki_page": "Ridolfo Luigi Boccherini (/ˌbɒkəˈriːni/, also US: /ˌboʊk-/, Italian: [riˈdɔlfo luˈiːdʒi bokkeˈriːni] (listen); 19 February 1743 – 28 May 1805) was an Italian, later Spanish, composer and cellist of the Classical era whose music retained a courtly and galante style even while he matured somewhat apart from the major European musical centers. He is best known for a minuet from his String Quintet in E, Op. 11, No. 5 (G 275), and the Cello Concerto in B flat major (G 482). The latter work was long known in the heavily altered version by German cellist and prolific arranger Friedrich Grützmacher, but has recently been restored to its original version.",
+        "cite": "https://en.wikipedia.org/wiki/Luigi_Boccherini",
         "works": [
             {
                 "title": "6 Quartets for Harpsichord, Violin, Viola and Cello, G.259",
@@ -14647,9 +14647,9 @@
         "popular": "1",
         "recommended": "1",
         "photo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Joseph_Haydn.jpg/800px-Joseph_Haydn.jpg",
-        "photo_canvas": "",
-        "wiki_page": "",
-        "cite": "",
+        "photo_canvas": "https://assets.classicfm.com/2012/41/joseph-haydn-1349887842-view-0.jpg",
+        "wiki_page": "Franz Joseph Haydn (/ˈhaɪdən/ HY-dən, German: [ˈfʁants ˈjoːzɛf ˈhaɪdn̩] (listen); 31 March 1732 – 31 May 1809) was an Austrian composer of the Classical period. He was instrumental in the development of chamber music such as the string quartet and piano trio. His contributions to musical form have led him to be called 'Father of the Symphony' and 'Father of the String Quartet'.",
+        "cite": "https://en.wikipedia.org/wiki/Joseph_Haydn",
         "works": [
             {
                 "title": "12 Lieder f\u00fcr die Clavier I, Hob.XXVIa:1-13",
@@ -19598,9 +19598,9 @@
         "popular": "1",
         "recommended": "1",
         "photo": "https://cdn.britannica.com/35/74835-050-F0B71060/canvas-oil-Wolfgang-Amadeus-Mozart-Barbara-Krafft-1819.jpg",
-        "photo_canvas": "",
-        "wiki_page": "",
-        "cite": "",
+        "photo_canvas": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Wolfgang-amadeus-mozart_2.jpg/1637px-Wolfgang-amadeus-mozart_2.jpg",
+        "wiki_page": "Wolfgang Amadeus Mozart (27 January 1756 – 5 December 1791), baptised as Joannes Chrysostomus Wolfgangus Theophilus Mozart, was a prolific and influential composer of the Classical period. Despite his short life, his rapid pace of composition resulted in more than 800 works of virtually every genre of his time. Many of these compositions are acknowledged as pinnacles of the symphonic, concertante, chamber, operatic, and choral repertoire. Mozart is widely regarded as among the greatest composers in the history of Western music, with his music admired for its 'melodic beauty, its formal elegance and its richness of harmony and texture'",
+        "cite": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart",
         "works": [
             {
                 "title": "A questo seno deh vieni, K.374",
@@ -24061,9 +24061,9 @@
         "popular": "0",
         "recommended": null,
         "photo": "https://upload.wikimedia.org/wikipedia/commons/0/07/Antonio_Salieri_painted_by_Joseph_Willibrord_M%C3%A4hler.jpg",
-        "photo_canvas": "",
-        "wiki_page": "",
-        "cite": "",
+        "photo_canvas": "https://interlude-cdn-blob-prod.azureedge.net/interlude-blob-storage-prod/2022/08/antonio_salieri_1750_1825.jpg",
+        "wiki_page": "Antonio Salieri (18 August 1750 – 7 May 1825) was an Italian classical composer, conductor, and teacher. He was born in Legnago, south of Verona, in the Republic of Venice, and spent his adult life and career as a subject of the Habsburg monarchy. Salieri was a pivotal figure in the development of late 18th-century opera. As a student of Florian Leopold Gassmann, and a protégé of Christoph Willibald Gluck, Salieri was a cosmopolitan composer who wrote operas in three languages. Salieri helped to develop and shape many of the features of operatic compositional vocabulary, and his music was a powerful influence on contemporary composers.",
+        "cite": "https://en.wikipedia.org/wiki/Antonio_Salieri",
         "works": [
             {
                 "title": "Armonia per un tempio della notte",
@@ -24564,9 +24564,9 @@
         "popular": "1",
         "recommended": "1",
         "photo" : "https://upload.wikimedia.org/wikipedia/commons/6/6f/Beethoven.jpg",
-        "photo_canvas": "",
-        "wiki_page": "",
-        "cite": "",
+        "photo_canvas": "https://miro.medium.com/max/1400/1*zwAZFKGEOn6muluaKsCTsQ.jpeg",
+        "wiki_page": "Ludwig van Beethoven (baptised 17 December 1770 – 26 March 1827) was a German composer and pianist. Beethoven remains one of the most admired composers in the history of Western music; his works rank amongst the most performed of the classical music repertoire and span the transition from the Classical period to the Romantic era in classical music. His career has conventionally been divided into early, middle, and late periods. His early period, during which he forged his craft, is typically considered to have lasted until 1802. From 1802 to around 1812, his middle period showed an individual development from the styles of Joseph Haydn and Wolfgang Amadeus Mozart, and is sometimes characterized as heroic. During this time, he began to grow increasingly deaf. In his late period, from 1812 to 1827, he extended his innovations in musical form and expression.",
+        "cite": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven",
         "works": [
             {
                 "title": "Abschiedsgesang an Wiens B\u00fcrger, WoO 121",
@@ -27323,9 +27323,9 @@
         "popular": "1",
         "recommended": "1",
         "photo" : "https://upload.wikimedia.org/wikipedia/commons/1/15/JohannesBrahms.jpg",
-        "photo_canvas": "",
-        "wiki_page": "",
-        "cite": "",
+        "photo_canvas": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTgwNjIxNTA5NDkwOTEwMjk2/gettyimages-515578680-copy.jpg",
+        "wiki_page": "Johannes Brahms (German: [joˈhanəs ˈbʁaːms]; 7 May 1833 – 3 April 1897) was a German composer, pianist, and conductor of the mid-Romantic period. Born in Hamburg into a Lutheran family, he spent much of his professional life in Vienna. He is sometimes grouped with Johann Sebastian Bach and Ludwig van Beethoven as one of the 'Three Bs' of music, a comment originally made by the nineteenth-century conductor Hans von Bülow.",
+        "cite": "https://en.wikipedia.org/wiki/Johannes_Brahms",
         "works": [
             {
                 "title": "Alto Rhapsody, op. 53",
@@ -28610,9 +28610,9 @@
         "popular": "1",
         "recommended": "1",
         "photo" : "https://medicitv-c.imgix.net/artist/frederic-chopin_RCIQg5c.jpg?auto=format&q=85",
-        "photo_canvas": "",
-        "wiki_page": "",
-        "cite": "",
+        "photo_canvas": "https://cdn.britannica.com/60/140360-050-A2E7778E/LA-Bisson-Frederic-Chopin-detail-photo-publisher-1849.jpg",
+        "wiki_page": "Frédéric François Chopin (born Fryderyk Franciszek Chopin; 1 March 1810 – 17 October 1849) was a Polish composer and virtuoso pianist of the Romantic period, who wrote primarily for solo piano. He has maintained worldwide renown as a leading musician of his era, one whose 'poetic genius was based on a professional technique that was without equal in his generation'.",
+        "cite": "https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin",
         "works": [
             {
                 "title": "Andante spianato et grande polonaise brillante, op. 22",
@@ -29529,9 +29529,9 @@
         "popular": "1",
         "recommended": "1",
         "photo" : "https://upload.wikimedia.org/wikipedia/en/b/b4/Claude_Debussy_atelier_Nadar.jpg",
-        "photo_canvas": "",
-        "wiki_page": "",
-        "cite": "",
+        "photo_canvas": "https://cdn.britannica.com/83/216783-050-E461C8B6/French-composer-Claude-Debussy.jpg",
+        "wiki_page": "Claude Debussy (French: [aʃil klod dəbysi]; 22 August 1862 – 25 March 1918) was a French composer. He is sometimes seen as the first Impressionist composer, although he vigorously rejected the term. He was among the most influential composers of the late 19th and early 20th centuries.",
+        "cite": "https://en.wikipedia.org/wiki/Claude_Debussy",
         "works": [
             {
                 "title": "2 Romances",
@@ -30672,9 +30672,9 @@
         "popular": "0",
         "recommended": "1",
         "photo" : "https://cdn.britannica.com/05/9605-050-9DED9C25/Sergey-Rachmaninoff.jpg",
-        "photo_canvas": "",
-        "wiki_page": "",
-        "cite": "",
+        "photo_canvas": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sergei_Rachmaninoff_cph.3a40575.jpg/440px-Sergei_Rachmaninoff_cph.3a40575.jpg",
+        "wiki_page": "Sergei Vasilyevich Rachmaninoff (1 April [O.S. 20 March] 1873 – 28 March 1943) was a Russian composer, virtuoso pianist, and conductor. Rachmaninoff is widely considered one of the finest pianists of his day and, as a composer, one of the last great representatives of Romanticism in Russian classical music. Early influences of Tchaikovsky, Rimsky-Korsakov, and other Russian composers gave way to a thoroughly personal idiom notable for its song-like melodicism, expressiveness and rich orchestral colours. The piano is featured prominently in Rachmaninoff's compositional output and he made a point of using his skills as a performer to fully explore the expressive and technical possibilities of the instrument.",
+        "cite": "https://en.wikipedia.org/wiki/Sergei_Rachmaninoff",
         "works": [
             {
                 "title": "12 Songs, op. 14",
@@ -31663,9 +31663,9 @@
         "popular": "1",
         "recommended": "1",
         "photo": "https://cdn.britannica.com/29/70029-004-74AD88C3/Pyotr-Ilyich-Tchaikovsky-St-Petersburg-Russia-1887.jpg",
-        "photo_canvas": "",
-        "wiki_page": "",
-        "cite": "",
+        "photo_canvas": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Tchaikovsky_by_Reutlinger.jpg/520px-Tchaikovsky_by_Reutlinger.jpg",
+        "wiki_page": "Pyotr Ilyich Tchaikovsky (/tʃaɪˈkɒfski/ chy-KOF-skee; Russian: Пётр Ильи́ч Чайко́вский, IPA: [pʲɵtr‿ɨˈlʲjitɕ tɕɪjˈkofskʲɪj] (listen); 7 May 1840 – 6 November 1893) was a Russian composer of the Romantic period. He was the first Russian composer whose music would make a lasting impression internationally. He wrote some of the most popular concert and theatrical music in the current classical repertoire, including the ballets Swan Lake and The Nutcracker, the 1812 Overture, his First Piano Concerto, Violin Concerto, the Romeo and Juliet Overture-Fantasy, several symphonies, and the opera Eugene Onegin.",
+        "cite": "https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky",
         "works": [
             {   "title": "12 Morceaux, difficult\u00e9 moyen, op. 40",
                 "subtitle": "",
