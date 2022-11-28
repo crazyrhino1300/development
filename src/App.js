@@ -116,6 +116,21 @@ function App() {
   function appendComposer(prop) {
     favoriteComposers(favorites => [prop.name, ...favorites]);
   }
+  function removeComposer(prop) {
+
+    if (favorites.includes(prop.name)) {
+      for (let i=0; i < favorites.length; i++) {
+        if (favorites[i] == prop.name) {
+          console.log(favorites)
+          favorites.splice(i, 1)     
+          totalYear( total - (2022 - parseInt(prop.birth.split('-')[0])))
+          favtotal(totalno - 1)
+          break
+        }
+      }
+
+    }
+  }
   function renderFav() {
     return favorites.map((item) => <li>{item}</li>)
   }
@@ -174,7 +189,7 @@ function App() {
             </div>
             <br></br>
             <div className="gallery">
-              {gallery.map((item) => (composerComp(item, addYear, addFav, appendComposer)))}
+              {gallery.map((item) => (composerComp(item, addYear, addFav, appendComposer, removeComposer)))}
             </div>
           </Col>
         </Row>

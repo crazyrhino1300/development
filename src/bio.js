@@ -7,7 +7,7 @@ import Col from 'react-bootstrap/Col';
 
 export default function BiographyMake(wrapped) {
   const prop = wrapped.prop;
-  console.log(prop)
+
   const [show, setShow] = useState(false);
 
   const handleClose = () => setShow(false);
@@ -20,7 +20,6 @@ export default function BiographyMake(wrapped) {
   }
   function extract5(works) {
     let res = works.slice(0, 5);
-    console.log(res)
     return res.map((item) => (extract(item)));
   }
   // ===========================================================================
