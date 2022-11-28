@@ -195,6 +195,8 @@ function App() {
         </Row>
       </Container>
       <footer style = {{borderTop: "1px solid rgb(0 0 0 / 18%)"}}>
+        <i>All composers fall into 1 filter category only; applying 2 or more filters will result in no composers being displayed (it's not broken).</i> 
+        <br></br>
         <i>All composers and their works can be found at https://openopus.org/.</i>
         <br></br>
         <i>All components were built and modified based on documentation from react-bootstrap.</i>
