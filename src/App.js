@@ -72,8 +72,12 @@ function App() {
     const composerArr = [...gallery]
     setGal(composerArr.sort(compare))
   }
+
+  // russia, france, poland, germany, italy, austria, USA, UK
   // ===========================================================================
   // ------------------------- Filtering functions -----------------------------
+
+  // BY EPOCH
   function baroqueP(prop) {
     return prop.epoch == "Baroque"
   }
@@ -102,6 +106,53 @@ function App() {
   function filterModern() {
     const filtMe = [...gallery]
     setGal(filtMe.filter(modernP))
+  }
+
+  // BY ORIGIN
+  function austriaP(prop) {
+    return prop.origin == "Austria"
+  }
+  function classicalP(prop) {
+    return prop.epoch == "Classical"
+  }
+  function romanticP(prop) {
+    return prop.epoch == "Early Romantic" || prop.epoch == "Romantic" || prop.epoch == "Late Romantic"
+  }
+  function modernP(prop) {
+    return prop.epoch == "21st Century"
+  }
+  // russia, france, poland, germany, italy, austria, USA, UK
+  function filterAustria() {
+    const filtMe = [...gallery]
+    setGal(filtMe.filter(item => item.origin == "Austria"))
+  }
+  function filterFrance() {
+    const filtMe = [...gallery]
+    setGal(filtMe.filter(item => item.origin == "France"))
+  }
+  function filterGermany() {
+    const filtMe = [...gallery]
+    setGal(filtMe.filter(item => item.origin == "Germany"))
+  }
+  function filterItaly() {
+    const filtMe = [...gallery]
+    setGal(filtMe.filter(item => item.origin == "Italy"))
+  }
+  function filterPoland() {
+    const filtMe = [...gallery]
+    setGal(filtMe.filter(item => item.origin == "Poland"))
+  }
+  function filterRussia() {
+    const filtMe = [...gallery]
+    setGal(filtMe.filter(item => item.origin == "Russia"))
+  }
+  function filterUK() {
+    const filtMe = [...gallery]
+    setGal(filtMe.filter(item => item.origin == "UK"))
+  }
+  function filterUSA() {
+    const filtMe = [...gallery]
+    setGal(filtMe.filter(item => item.origin == "USA"))
   }
 
   // ===========================================================================
@@ -185,6 +236,22 @@ function App() {
                     <Dropdown.Item onClick={() => reset()}>Reset all filters</Dropdown.Item>
                   </Dropdown.Menu>
                 </Dropdown>
+                <Dropdown className = "button2" as={ButtonGroup}>
+                  <Button variant="outline-success">Origin Filter</Button>
+                  <Dropdown.Toggle split variant="outline-success" id="dropdown-split-basic" />
+                  <Dropdown.Menu>
+                    <Dropdown.Item onClick={() => filterAustria()} >Austria</Dropdown.Item>
+                    <Dropdown.Item onClick={() => filterFrance()}>France</Dropdown.Item>
+                    <Dropdown.Item onClick={() => filterGermany()}>Germany</Dropdown.Item>
+                    <Dropdown.Item onClick={() => filterItaly()}>Italy</Dropdown.Item>
+                    <Dropdown.Item onClick={() => filterPoland()}>Poland</Dropdown.Item>
+                    <Dropdown.Item onClick={() => filterRussia()}>Russia</Dropdown.Item>
+                    <Dropdown.Item onClick={() => filterUK()}>UK</Dropdown.Item>
+                    <Dropdown.Item onClick={() => filterUSA()}>USA</Dropdown.Item>
+                    <Dropdown.Divider />
+                    <Dropdown.Item onClick={() => reset()}>Reset all filters</Dropdown.Item>
+                  </Dropdown.Menu>
+                </Dropdown>
               </div>
             </div>
             <br></br>
@@ -195,6 +262,10 @@ function App() {
         </Row>
       </Container>
       <footer style = {{borderTop: "1px solid rgb(0 0 0 / 18%)"}}>
+        <i>
+          Applying 2 of the same filter (ex both Austria and UK or both Baroque and classical) will result in 0 composers being showed. It's not broken.
+        </i>
+        <br></br>
         <i>All composers and their works can be found at https://openopus.org/.</i>
         <br></br>
         <i>All components were built and modified based on documentation from react-bootstrap.</i>

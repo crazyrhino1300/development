@@ -2,6 +2,7 @@
     {
         "name": "Adams",
         "complete_name": "John Adams",
+        "origin": "USA",
         "epoch": "21st Century",
         "birth": "1947-01-01",
         "death": null,
@@ -225,6 +226,7 @@
     {
         "name": "Ad\u00e8s",
         "complete_name": "Thomas Ad\u00e8s",
+        "origin": "UK",
         "epoch": "21st Century",
         "birth": "1971-01-01",
         "death": null,
@@ -336,6 +338,7 @@
     {
         "name": "Corigliano",
         "complete_name": "John Corigliano",
+        "origin": "USA",
         "epoch": "21st Century",
         "birth": "1938-01-01",
         "death": null,
@@ -679,6 +682,7 @@
     {
         "name": "Daugherty",
         "complete_name": "Michael Daugherty",
+        "origin": "USA",
         "epoch": "21st Century",
         "birth": "1954-01-01",
         "death": null,
@@ -966,6 +970,7 @@
     {
         "name": "Bach",
         "complete_name": "Johann Sebastian Bach",
+        "origin": "Germany",
         "epoch": "Baroque",
         "birth": "1685-01-01",
         "death": "1750-01-01",
@@ -8821,6 +8826,7 @@
     {
         "name": "Corelli",
         "complete_name": "Arcangelo Corelli",
+        "origin": "Italy",
         "epoch": "Baroque",
         "birth": "1653-01-01",
         "death": "1713-01-01",
@@ -9540,6 +9546,7 @@
     {
         "name": "Frescobaldi",
         "complete_name": "Girolamo Frescobaldi",
+        "origin": "Italy",
         "epoch": "Baroque",
         "birth": "1583-01-01",
         "death": "1643-01-01",
@@ -10523,6 +10530,7 @@
     {
         "name": "Handel",
         "complete_name": "George Frideric Handel",
+        "origin": "UK",
         "epoch": "Baroque",
         "birth": "1685-01-01",
         "death": "1759-01-01",
@@ -13410,6 +13418,7 @@
     {
         "name": "Boccherini",
         "complete_name": "Luigi Boccherini",
+        "origin": "Italy",
         "epoch": "Classical",
         "birth": "1743-01-01",
         "death": "1805-01-01",
@@ -14641,6 +14650,7 @@
     {
         "name": "Haydn",
         "complete_name": "Franz Joseph Haydn",
+        "origin": "Austria",
         "epoch": "Classical",
         "birth": "1732-01-01",
         "death": "1809-01-01",
@@ -19592,6 +19602,7 @@
     {
         "name": "Mozart",
         "complete_name": "Wolfgang Amadeus Mozart",
+        "origin": "Austria",
         "epoch": "Classical",
         "birth": "1756-01-01",
         "death": "1791-01-01",
@@ -24055,6 +24066,7 @@
     {
         "name": "Salieri",
         "complete_name": "Antonio Salieri",
+        "origin": "Italy",
         "epoch": "Classical",
         "birth": "1750-01-01",
         "death": "1825-01-01",
@@ -24558,6 +24570,7 @@
     {
         "name": "Beethoven",
         "complete_name": "Ludwig van Beethoven",
+        "origin": "Germany",
         "epoch": "Early Romantic",
         "birth": "1770-01-01",
         "death": "1827-01-01",
@@ -27317,6 +27330,7 @@
     {
         "name": "Brahms",
         "complete_name": "Johannes Brahms",
+        "origin": "Germany",
         "epoch": "Romantic",
         "birth": "1833-01-01",
         "death": "1897-01-01",
@@ -28604,6 +28618,7 @@
     {
         "name": "Chopin",
         "complete_name": "Fr\u00e9d\u00e9ric Chopin",
+        "origin": "Poland",
         "epoch": "Romantic",
         "birth": "1810-01-01",
         "death": "1849-01-01",
@@ -29523,6 +29538,7 @@
     {
         "name": "Debussy",
         "complete_name": "Claude Debussy",
+        "origin": "France",
         "epoch": "Late Romantic",
         "birth": "1862-01-01",
         "death": "1918-01-01",
@@ -30666,6 +30682,7 @@
     {
         "name": "Rachmaninoff",
         "complete_name": "Sergei Rachmaninoff",
+        "origin": "Russia",
         "epoch": "Late Romantic",
         "birth": "1873-01-01",
         "death": "1943-01-01",
@@ -31657,6 +31674,7 @@
     {
         "name": "Tchaikovsky",
         "complete_name": "Pyotr Ilyich Tchaikovsky",
+        "origin": "Russia",
         "epoch": "Romantic",
         "birth": "1840-01-01",
         "death": "1893-01-01",
