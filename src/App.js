@@ -52,7 +52,7 @@ function App() {
   }
   function averageYear() {
     if (totalno != 0) {
-      return "Average Composer Age is: " + Math.round(total/totalno);
+      return "Avg fav composer age: " + Math.round(total/totalno);
     }
     return "";
   }
@@ -143,9 +143,9 @@ function App() {
                 <Overlay/>
               </div>
               
-              <p className = "mainpage"> {averageYear()}</p>
+              <p className = "mainpage"><i><u>{averageYear()}</u></i> </p>
 
-              <h5>{determineEra(total / totalno)}</h5>
+              <p className = "mainpage"><i><u>{determineEra(total / totalno)}</u></i></p>
               <h5>Favorite composers:</h5> 
               <p className = "mainpage">{renderFav()} </p>
             </div>
